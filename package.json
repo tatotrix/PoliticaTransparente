@@ -1,0 +1,31 @@
+{
+  "name": "politicatransparente",
+  "version": "1.0.0",
+  "description": "Transparência política, app mostra tudo sobre os gastos e outros assuntos",
+  "productName": "Política Transparente",
+  "cordovaId": "br.com.taiguaraduarte.politicatransparente",
+  "author": "taiguarapduarte@gmail.com",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "vue-currency-filter": "^3.1.0",
+    "vue-i18n": "^7.3.3"
+  },
+  "devDependencies": {
+    "quasar-cli": "^0.17.0",
+    "strip-ansi": "=3.0.1"
+  },
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 10"
+  ]
+}
