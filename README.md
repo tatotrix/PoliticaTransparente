@@ -1,13 +1,23 @@
-# PoliticaTransparente
+# Politica Transparente
 
-#Tecnologias
+App que se conecta no portal da transparência do governo e obtêm dados de políticos.
+
 App feito em Quasar framework com Cordova e Vue Cli
 
-#Instalar Dependências
+
+## Instalação
+
+
+```node
 npm install 
+```
 
-#Acessar diretório
+## Usage
+
+```quasar
 cd src
-
-#Rodar em DEV
 quasar dev
+```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
